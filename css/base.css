@@ -93,7 +93,7 @@ h1 {
 
 mark {
 	background: #ff0;
-	color: #000;
+	color: #orange;
 }
 
 small {
@@ -871,3 +871,8 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+
+
+.fa-github {
+	font-size: 50px;
+}
